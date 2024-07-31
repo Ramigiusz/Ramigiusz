@@ -15,12 +15,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Ramigiusz/TestProject/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Malware Analysis          | <a href="https://github.com/Ramigiusz/TestProject/tree/main">Detection Lab</a>|
+| Active Directory | <a href="https://google.com">Detection Lab</a>|
+| Endpoint Detection         | SOC Automation Lab|
+| Threat Hunting      | SOC Automation Lab|
+| Malware Traffic Analysis                  | SOC Automation Lab|
+| Phising Email Analysis | SOC Automation Lab|
+| Security Incident Investigations | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]

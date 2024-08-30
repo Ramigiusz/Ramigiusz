@@ -20,6 +20,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Malware Analysis
 <img src="https://img.shields.io/badge/-Flare%20VM-005571?style=for-the-badge&logo=windows&logoColor=white" />
 
+## Projects
+- <a href="https://github.com/Ramigiusz/FlareVM-Project">Security Analyst Lab</a>
 
 ## Certifications and Courses
 
@@ -39,5 +41,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 [Open to view certificate]
 
-## Projects
-- <a href="https://github.com/Ramigiusz/FlareVM-Project">FlareVM Lab</a>
+

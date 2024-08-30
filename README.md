@@ -1,12 +1,10 @@
 # Hello, I'm Rami Matouk
 <a href="https://www.linkedin.com/in/ramimatouk"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 I am a dedicated cybersecurity student seeking an entry-level position to kickstart my career.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to join this field, specifically aiming to become Cloud Security Enginner.
 

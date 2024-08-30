@@ -6,20 +6,13 @@ I am a dedicated cybersecurity student seeking an entry-level position to kickst
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to join this field, specifically aiming to become Cloud Security Enginner.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to join this field, currently aiming to join Security Analyst team as Tier 1 Analyst
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Malware Analysis          | <a href="https://github.com/Ramigiusz/TestProject/tree/main">Detection Lab</a>|
-| Active Directory | <a href="https://google.com">Detection Lab</a>|
-| Endpoint Detection         | SOC Automation Lab|
-| Threat Hunting      | SOC Automation Lab|
-| Malware Traffic Analysis                  | SOC Automation Lab|
-| Phising Email Analysis | SOC Automation Lab|
-| Security Incident Investigations | SOC Automation Lab|
+| Malware Analysis          | <a href="https://github.com/Ramigiusz/TestProject/tree/main">FlareVM Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -55,5 +48,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- <a href="https://github.com/Ramigiusz/TestProject/tree/main">Detection Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/Ramigiusz/TestProject/tree/main">FlareVM Lab</a>

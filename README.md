@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Malware Analysis
-<img src="https://img.shields.io/badge/-VlareVM-005571?&style=for-the-badge&logo=FlareVM&logoColor=white" />
+<img src="https://img.shields.io/badge/-FlareVM-005571?&style=for-the-badge&logo=FlareVM&logoColor=white" />
 
 
 ## Certifications

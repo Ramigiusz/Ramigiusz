@@ -24,13 +24,20 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications and Courses
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="" target="_blank">
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
 </div>
 <div>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Course-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-SOC%20Level%201%20on%20TryHackMe-007ACC?style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<a href="https://drive.google.com/file/d/1-5C9gu6-QMt2hlpQIFIPrdLjMR1OE1rM/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Course-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+</a>
+<a href="https://drive.google.com/file/d/11Bk43G1NSytDsGxesk5mCclaYJYUjEar/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/-SOC%20Level%201%20on%20TryHackMe-007ACC?style=for-the-badge&logo=TryHackMe&logoColor=white" />
+</a>
+
 </div>
-[Click to view certificate]
+[Open to view certificate]
 
 ## Projects
 - <a href="https://github.com/Ramigiusz/FlareVM-Project">FlareVM Lab</a>

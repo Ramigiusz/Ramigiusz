@@ -19,7 +19,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Malware Analysis
+### SAMPLE
 <img src="https://img.shields.io/badge/-Flare%20VM-005571?style=for-the-badge&logo=windows&logoColor=white" />
 
 ## Projects

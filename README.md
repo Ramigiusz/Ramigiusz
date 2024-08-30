@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Malware Analysis          | <a href="https://github.com/Ramigiusz/TestProject/tree/main">FlareVM Lab</a>|
+| Malware Analysis          | <a href="https://github.com/Ramigiusz/VlareVM-Project">FlareVM Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -48,4 +48,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- <a href="https://github.com/Ramigiusz/TestProject/tree/main">FlareVM Lab</a>
+- <a href="https://github.com/Ramigiusz/VlareVM-Project">FlareVM Lab</a>

@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SAMPLE         | <a href="https://github.com/Ramigiusz/Virtual-Security-Home-Lab">SAMPLE</a>|
+| SIEM implementation and configuration         | <a href="https://github.com/Ramigiusz/SOC-Automation-Project">SOC Automation Project </a> |
 
 
 

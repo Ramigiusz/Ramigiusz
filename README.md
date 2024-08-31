@@ -23,7 +23,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Flare%20VM-005571?style=for-the-badge&logo=windows&logoColor=white" />
 
 ## Projects
-<a href="https://github.com/Ramigiusz/Virtual-Security-Home-Lab">Virtual Security Home Lab </a>
+<a href="https://github.com/Ramigiusz/SOC-Automation-Project">SOC Automation Project </a>
 
 ## Certifications and Courses
 

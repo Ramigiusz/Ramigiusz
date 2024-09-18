@@ -21,7 +21,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### SIEM
-<img src="https://img.shields.io/badge/-Wazuh-0072B1?style=for-the-badge&logo=wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wazuh-0072B1?style=for-the-badge&logo=wazuh&logoColor=white" /> 
 
 ### SOAR
 <img src="https://img.shields.io/badge/-Shuffle-FF8000?style=for-the-badge&logo=shuffle&logoColor=white" />
@@ -47,4 +47,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 [Open to view certificate]
 
-
+## Projects
+### [SOC Automation Project](https://github.com/Ramigiusz/SOC-Automation-Project)
+This project demonstrates how to automate common SOC tasks using **Wazuh**, **Shuffle**, and **TheHive** to detect and respond to suspicious activities. It includes workflows for incident detection, alert management, and enriching data through threat intelligence tools.

@@ -13,17 +13,21 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM implementation and configuration         | <a href="https://github.com/Ramigiusz/SOC-Automation-Project">SOC Automation Project </a> |
+| SOAR setup and automation	|  <a href="https://github.com/Ramigiusz/SOC-Automation-Project">SOC Automation Project </a> |
 
 
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### SAMPLE
-<img src="https://img.shields.io/badge/-Flare%20VM-005571?style=for-the-badge&logo=windows&logoColor=white" />
+### SIEM
+<img src="https://img.shields.io/badge/-Wazuh-0072B1?style=for-the-badge&logo=wazuh&logoColor=white" />
 
-## Projects
-<a href="https://github.com/Ramigiusz/SOC-Automation-Project">SOC Automation Project </a>
+### SOAR
+<img src="https://img.shields.io/badge/-Shuffle-FF8000?style=for-the-badge&logo=shuffle&logoColor=white" />
+
+### Incident Response
+<img src="https://img.shields.io/badge/-TheHive-2E8B57?style=for-the-badge&logo=thehive&logoColor=white" />
 
 ## Certifications and Courses
 

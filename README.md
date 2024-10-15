@@ -30,12 +30,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-TheHive-2E8B57?style=for-the-badge&logo=thehive&logoColor=white" />
 
 ## Certifications and Courses
-
-<div>
-<a href="" target="_blank">
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</a>
-</div>
 <div>
 <a href="https://drive.google.com/file/d/1-5C9gu6-QMt2hlpQIFIPrdLjMR1OE1rM/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Course-4285F4?style=for-the-badge&logo=Google&logoColor=white" />

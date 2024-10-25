@@ -8,6 +8,9 @@ Cybersecurity student at the University of Science and Technology in Wrocław, a
 ## [Cybersecurity Blog](https://ramigiusz.github.io/)
 Explore my blog where I share what I've learned in the field of cybersecurity. I use it as a space to reinforce my knowledge, keep a record for future reference, and hopefully assist anyone interested in the topics I dive into.
 
+![Your Image Badge](https://tryhackme-badges.s3.amazonaws.com/Ramigiusz.png)
+
+
 ## Skills
 
 | Skill                                         | Associated Project         |

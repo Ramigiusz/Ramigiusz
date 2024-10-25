@@ -1,12 +1,12 @@
 # Hello, I'm Rami Matouk
 <a href="https://www.linkedin.com/in/ramimatouk"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-I am a dedicated cybersecurity student seeking an entry-level position to kickstart my career.
-
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to join this field, currently aiming to join Security Analyst team as Tier 1 Analyst
+Cybersecurity student at the University of Science and Technology in Wrocław, aspiring to become an IT security professional. With a strong foundation in cybersecurity principles actively seeking opportunities to apply skills in real-world environments. Dedicated to continuous learning and skill development to achieve expertise in the IT security field. 
+
+## [Cybersecurity Blog](https://github.com/Ramigiusz/Ramigiusz.github.io)
+Explore my blog where I share what I've learned in the field of cybersecurity. I use it as a space to reinforce my knowledge, keep a record for future reference, and hopefully assist anyone interested in the topics I dive into.
 
 ## Skills
 
@@ -44,5 +44,3 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### [SOC Automation Project](https://github.com/Ramigiusz/SOC-Automation-Project)
 This project demonstrates how to automate common SOC tasks using **Wazuh**, **Shuffle**, and **TheHive** to detect and respond to suspicious activities. It includes workflows for incident detection, alert management, and enriching data through threat intelligence tools.
 
-## [Cybersecurity Blog](https://github.com/Ramigiusz/Ramigiusz.github.io)
-Explore my blog where I share what I've learned in the field of cybersecurity. I use it as a space to reinforce my knowledge, keep a record for future reference, and hopefully assist anyone interested in the topics I dive into.

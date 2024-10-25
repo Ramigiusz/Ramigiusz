@@ -44,5 +44,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### [SOC Automation Project](https://github.com/Ramigiusz/SOC-Automation-Project)
 This project demonstrates how to automate common SOC tasks using **Wazuh**, **Shuffle**, and **TheHive** to detect and respond to suspicious activities. It includes workflows for incident detection, alert management, and enriching data through threat intelligence tools.
 
-### [Cybersecurity Blog](https://github.com/Ramigiusz/Ramigiusz.github.io)
+## [Cybersecurity Blog](https://github.com/Ramigiusz/Ramigiusz.github.io)
 Check out my blog, i do it to enforce what i have learned, save up it for future reference or even help someone if he is interested in topics I researched about

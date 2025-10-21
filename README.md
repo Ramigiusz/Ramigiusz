@@ -17,14 +17,15 @@ Explore my site where I share what I've learned in the field of cybersecurity. I
 |-----------------------------------------------|----------------------------|
 | SIEM implementation and configuration         | <a href="https://github.com/Ramigiusz/SOC-Automation-Project">SOC Automation Project </a> |
 | SOAR setup and automation	|  <a href="https://github.com/Ramigiusz/SOC-Automation-Project">SOC Automation Project </a> |
-
-
+| Linux Administration (Debian/Ubuntu, systemd, networking) | PROA Technology (work) |
+| Organizational Security Management (policies, risk, compliance) | PROA Technology (work) |
+| Incident Response | PROA Technology (work) |
 
 ## Tools
 
 ### SIEM
-<img src="https://img.shields.io/badge/-Wazuh-0072B1?style=for-the-badge&logo=wazuh&logoColor=white" /> 
-
+<img src="https://img.shields.io/badge/-Wazuh-0072B1?style=for-the-badge&logo=wazuh&logoColor=white" /> <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Elastic%20(ELK)-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
 ### SOAR
 <img src="https://img.shields.io/badge/-Shuffle-FF8000?style=for-the-badge&logo=shuffle&logoColor=white" />
 
@@ -39,7 +40,9 @@ Explore my site where I share what I've learned in the field of cybersecurity. I
 <a href="https://drive.google.com/file/d/11Bk43G1NSytDsGxesk5mCclaYJYUjEar/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/-SOC%20Level%201%20on%20TryHackMe-007ACC?style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </a>
-
+<a href="https://certs.ine.com/b4e43e47-0e6f-4ef4-97bd-a2ce49baf750" target="_blank">
+    <img src="https://img.shields.io/badge/eJPT%20Junior%20Penetration%20Tester-E31B23?style=for-the-badge" />
+</a>
 </div>
 [Open to view certificate]
 

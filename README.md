@@ -5,12 +5,6 @@
 
 Cybersecurity student at the University of Science and Technology in Wrocław, aspiring to become an IT security professional. With a strong foundation in cybersecurity principles actively seeking opportunities to apply skills in real-world environments. Dedicated to continuous learning and skill development to achieve expertise in the IT security field. 
 
-## [My Website](https://ramigiusz.github.io/)
-Explore my site where I share what I've learned in the field of cybersecurity. I use it as a space to reinforce my knowledge, keep a record for future reference, and hopefully assist anyone interested in the topics I dive into.
-
-![Your Image Badge](https://tryhackme-badges.s3.amazonaws.com/Ramigiusz.png)
-
-
 ## Skills
 
 

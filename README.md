@@ -50,3 +50,4 @@ Explore my site where I share what I've learned in the field of cybersecurity. I
 ### [SOC Automation Project](https://github.com/Ramigiusz/SOC-Automation-Project)
 This project demonstrates how to automate common SOC tasks using **Wazuh**, **Shuffle**, and **TheHive** to detect and respond to suspicious activities. It includes workflows for incident detection, alert management, and enriching data through threat intelligence tools.
 
+### [Azure Zero Trust Lab](https://github.com/Ramigiusz/SOC-Automation-Project)

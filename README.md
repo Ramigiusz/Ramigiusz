@@ -61,6 +61,6 @@ Explore my site where I share what I've learned in the field of cybersecurity. I
 This project demonstrates how to automate common SOC tasks using **Wazuh**, **Shuffle**, and **TheHive** to detect and respond to suspicious activities. It includes workflows for incident detection, alert management, and enriching data through threat intelligence tools.
 
 ### [Azure Zero Trust Lab](https://github.com/Ramigiusz/Zero-Trust-Azure-Lab)
-This project presents a fully implemented **Zero Trust architecture** in **Microsoft Azure**, designed for a hypothetical medical web application called *KlinitoMed*.  
+This project presents a **Zero Trust architecture** in **Microsoft Azure**, designed for a hypothetical medical web application called *KlinitoMed*.  
 The environment was built using Azure PaaS services and follows modern cloud security principles
 

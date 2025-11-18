@@ -18,8 +18,11 @@ Explore my site where I share what I've learned in the field of cybersecurity. I
 |--------------|-------------|--------------------|
 | **Security Operations (SOC)** | Implementing SIEM pipelines, log collection, alerting and detection logic | <a href="https://github.com/Ramigiusz/SOC-Automation-Project">SOC Automation Project</a> |
 | **Security Orchestration & Automation (SOAR)** | Automating incident workflows, enrichment, ticketing and response actions | <a href="https://github.com/Ramigiusz/SOC-Automation-Project">SOC Automation Project</a> |
-| **Incident Response** | Triage, evidence collection, threat investigation, playbook creation | PROA Technology (work) |
+| **Incident Response** | Triage, evidence collection, threat investigation, playbook creation | HTB, TryHackMe and PROA Technology (work) |
+| **Pentesting Fundamentals** | Network scanning, enumeration, vulnerability assessment, exploitation basics | eJPT Certification |
 | **Azure Cloud Security** | Zero Trust architecture, Private Link, WAF, identity security, network segmentation | <a href="https://github.com/Ramigiusz/Zero-Trust-Azure-Lab">Azure Zero Trust Lab</a> |
+| **AWS Cloud Security** | Securing resources, network access and identities in Amazon Web Services | AWS Academy Cloud Security Foundations |
+
 | **Identity & Access Management (IAM)** | RBAC, Entra ID, OAuth2, least privilege, secure access control | <a href="https://github.com/Ramigiusz/Zero-Trust-Azure-Lab">Azure Zero Trust Lab</a> |
 | **Infrastructure & Linux Administration** | Managing Debian/Ubuntu servers, systemd, SSH, networking | PROA Technology (work) |
 | **Monitoring & Observability** | Grafana, Prometheus, Loki, Tempo, alerting pipelines | <a href="https://github.com/Ramigiusz/Monitoring-Stack">Monitoring Stack</a> |

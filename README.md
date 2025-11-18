@@ -32,6 +32,9 @@ Explore my site where I share what I've learned in the field of cybersecurity. I
 ### Incident Response
 <img src="https://img.shields.io/badge/-TheHive-2E8B57?style=for-the-badge&logo=thehive&logoColor=white" />
 
+### Cloud
+<img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
 ## Certifications and Courses
 <div>
 <a href="https://drive.google.com/file/d/1-5C9gu6-QMt2hlpQIFIPrdLjMR1OE1rM/view?usp=drive_link" target="_blank">
@@ -50,4 +53,7 @@ Explore my site where I share what I've learned in the field of cybersecurity. I
 ### [SOC Automation Project](https://github.com/Ramigiusz/SOC-Automation-Project)
 This project demonstrates how to automate common SOC tasks using **Wazuh**, **Shuffle**, and **TheHive** to detect and respond to suspicious activities. It includes workflows for incident detection, alert management, and enriching data through threat intelligence tools.
 
-### [Azure Zero Trust Lab](https://github.com/Ramigiusz/SOC-Automation-Project)
+### [Azure Zero Trust Lab](https://github.com/Ramigiusz/Zero-Trust-Azure-Lab)
+This project presents a fully implemented **Zero Trust architecture** in **Microsoft Azure**, designed for a hypothetical medical web application called *KlinitoMed*.  
+The environment was built using Azure PaaS services and follows modern cloud security principles
+
